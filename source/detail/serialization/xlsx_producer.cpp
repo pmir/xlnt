@@ -33,7 +33,7 @@
 #include <detail/serialization/vector_streambuf.hpp>
 #include <detail/serialization/xlsx_producer.hpp>
 #include <detail/serialization/zstream.hpp>
-#include <detail/numeric_utils.hpp>
+#include "xlnt/utils/numeric_utils.hpp"
 #include <xlnt/cell/cell.hpp>
 #include <xlnt/cell/hyperlink.hpp>
 #include <xlnt/packaging/manifest.hpp>
